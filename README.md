@@ -2,7 +2,7 @@
 
 Create serverless Telegram Bot with DB to keep track of users using Netlify Functions and FaunaDB
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jokarz/netlify-fauna-telegram-bot)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/dad2vad/netlify-fauna-tel)
 
 # Getting Started
 
